@@ -2,37 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Informasi Konten</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        p {
-            margin: 10px 0;
-        }
-        ul, ol {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        a {
-            color: #1a73e8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-    </style>
-</head>
-<body>
     <div class="container">
         <h1>HERBESSER R100 100mg</h1>
         <p>Each capsule contains 100mg of Diltiazem Hydrochloride</p>
