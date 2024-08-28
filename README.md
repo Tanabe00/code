@@ -39,15 +39,12 @@
 	<p>LOT VS437</p>
 	<p>MFG 10 07 24</p>
 	<p>EXP 10 07 27</p>
-
 	<p>Beads manufactured by:</p>
 	<p>Mitsubishi Tanabe Pharma Factory Ltd.</p>
 	<p>Sanyo Onoda, Yamaguchi, Japan</p>
-
 	<p>Under license from:</p>
 	<p>Mitsubishi Tanabe Pharma Corporation</p>
 	<p>Osaka, Japan</p>
-
 	<p>Beads imported, encapsulated and packed by:</p>
 	<p>PT. Mitsubishi Tanabe Pharma Indonesia,</p>
 	<p>Bandung - Indonesia</p>
